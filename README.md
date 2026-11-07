@@ -27,6 +27,7 @@ The objective is to transform hospital data into meaningful insights that can he
 - Data Visualization
 
 ## 📊 Dashboard Preview
+<img width="976" height="415" alt="dashboard_overview" src="https://github.com/user-attachments/assets/d2afee99-c299-453b-9f19-543072a27aa2" />
 
 
 
