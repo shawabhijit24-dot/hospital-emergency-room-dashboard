@@ -29,8 +29,6 @@ The objective is to transform hospital data into meaningful insights that can he
 ## 📊 Dashboard Preview
 <img width="976" height="415" alt="dashboard_overview" src="https://github.com/user-attachments/assets/d2afee99-c299-453b-9f19-543072a27aa2" />
 
-
-
 ## 📈 Key Performance Indicators (KPIs)
 
 | KPI | Result |
@@ -79,8 +77,7 @@ hospital-emergency-room-dashboard/
 │
 ├── Hospital_data_dashboard.xlsx
 │
-├── screenshots/
-│   └── dashboard_overview.png
+├── dashboard_overview.png
 │
 └── README.md
 ```
