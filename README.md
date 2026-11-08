@@ -76,9 +76,8 @@ The objective is to transform hospital data into meaningful insights that can he
 hospital-emergency-room-dashboard/
 │
 ├── Hospital_data_dashboard.xlsx
-│
+├── Hospital_ER_Raw_Data.csv
 ├── dashboard_overview.png
-│
 └── README.md
 ```
 
